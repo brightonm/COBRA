@@ -2,6 +2,8 @@
 
 AI agent learns how to play Snake using Deep Reinforcement Learning (PyTorch).
 
+![Alt Text](https://github.com/brightonm/COBRA/blob/main/pretrained_model.gif)
+
 The goal of this project is to develop an AI Bot able to learn how to play the Snake game from scratch.
 
 * Implemented the Snake game from scratch using pygame library
