@@ -33,7 +33,7 @@ python play_cobra_game.py
 python rl_agent.py
 ```
 
-Models will be saved in the 'models/' folder.
+Models will be saved in the `models/` folder.
 
 ## How to a use pretrained model and watch its performance :rocket:
 
