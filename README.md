@@ -31,7 +31,7 @@ python play_cobra_game.py
 python rl_agent.py
 ```
 
-## How to a use pretrained model and watch his performance :rocket:
+## How to a use pretrained model and watch its performance :rocket:
 
 ```bash
 python rl_agent --model_path pretrained_models/pretrained_model.pth
