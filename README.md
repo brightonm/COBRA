@@ -35,7 +35,7 @@ python rl_agent.py
 
 Models will be saved in the `models/` folder.
 
-## How to a use pretrained model and watch its performance :rocket:
+## How to use a pretrained model and watch its performance :rocket:
 
 ```bash
 python rl_agent --model_path pretrained_models/pretrained_model.pth
